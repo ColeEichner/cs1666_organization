@@ -135,20 +135,12 @@ Liying Qin
 - Bandwidth Optimization (15 minutes)
   - Network Topology
       - Network Classifications
-          - Point to Point
-          - Bus
           - Mesh
           - Star
       - Why we went with star?
       - Server Hosting in our game
       - Client Connection in our game
-  - Bandwidth 
-      - Network Speed
-      - Throughput
-      - Bandwith and UDP/TCP
-      - How does this affect our game?
   - Packets
-      - Basic packet sending
       - Packet sending in our game
           - What are we sending?
           - How is it stored?
@@ -160,6 +152,11 @@ Liying Qin
               - How it affects enemies
               - How it affects environment
       - How does our delayed model affect Packet sending?
+  - Bandwidth 
+      - Network Speed
+      - Throughput
+      - Bandwith and UDP/TCP
+      - How does this affect our game?
 ...
 
 
